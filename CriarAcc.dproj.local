@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2015/09/17 15:11:27.000.762,=C:\Users\Gustavo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/09/17 15:13:18.000.301,C:\GMS\MyApp Delphi\Server AIKA\Unit1.dfm=C:\Users\Gustavo\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2015/09/17 15:13:18.000.301,C:\GMS\MyApp Delphi\Server AIKA\Unit1.pas=C:\Users\Gustavo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/09/17 15:13:19.000.159,C:\GMS\MyApp Delphi\Server AIKA\Project1.dproj=C:\Users\Gustavo\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2015/09/17 15:13:26.000.935,C:\GMS\MyApp Delphi\Server AIKA\CriarAcc.dproj=C:\GMS\MyApp Delphi\Server AIKA\Project1.dproj</Transaction>
+    <Transaction>2015/09/17 15:13:32.000.857,C:\GMS\MyApp Delphi\Server AIKA\Main.dfm=C:\GMS\MyApp Delphi\Server AIKA\Unit1.dfm</Transaction>
+    <Transaction>2015/09/17 15:13:32.000.857,C:\GMS\MyApp Delphi\Server AIKA\Main.pas=C:\GMS\MyApp Delphi\Server AIKA\Unit1.pas</Transaction>
+    <Transaction>2015/09/17 15:15:03.000.097,=C:\GMS\MyApp Delphi\Server AIKA\Data\MiscData.pas</Transaction>
+    <Transaction>2015/09/17 15:15:03.000.133,=C:\GMS\MyApp Delphi\Server AIKA\Data\PlayerData.pas</Transaction>
+    <Transaction>2015/09/17 15:17:01.000.473,=C:\GMS\MyApp Delphi\Server AIKA\Functions\Util.pas</Transaction>
+  </Transactions>
+</BorlandProject>

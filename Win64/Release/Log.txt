@@ -1,0 +1,614 @@
+Servidor levou 61 milisegundos para carregar(aprox: 0,061 segundos).
+----------------
+Servidor levou 63 milisegundos para carregar(aprox: 0,063 segundos).
+----------------
+Servidor levou 42 milisegundos para carregar(aprox: 0,042 segundos).
+----------------
+Servidor levou 30 milisegundos para carregar(aprox: 0,03 segundos).
+----------------
+Servidor levou 51 milisegundos para carregar(aprox: 0,051 segundos).
+----------------
+Servidor levou 146 milisegundos para carregar(aprox: 0,146 segundos).
+----------------
+Servidor levou 59 milisegundos para carregar(aprox: 0,059 segundos).
+----------------
+Servidor levou 29 milisegundos para carregar(aprox: 0,029 segundos).
+----------------
+Ocorreu um erro ao configurar o socket.
+----------------
+Servidor levou 62 milisegundos para carregar(aprox: 0,062 segundos).
+----------------
+Servidor levou 70 milisegundos para carregar(aprox: 0,07 segundos).
+----------------
+Servidor levou 70 milisegundos para carregar(aprox: 0,07 segundos).
+----------------
+Servidor levou 72 milisegundos para carregar(aprox: 0,072 segundos).
+----------------
+Servidor levou 69 milisegundos para carregar(aprox: 0,069 segundos).
+----------------
+Servidor levou 69 milisegundos para carregar(aprox: 0,069 segundos).
+----------------
+Servidor levou 60 milisegundos para carregar(aprox: 0,06 segundos).
+----------------
+Servidor levou 72 milisegundos para carregar(aprox: 0,072 segundos).
+----------------
+Servidor levou 64 milisegundos para carregar(aprox: 0,064 segundos).
+----------------
+Servidor levou 63 milisegundos para carregar(aprox: 0,063 segundos).
+----------------
+Servidor levou 63 milisegundos para carregar(aprox: 0,063 segundos).
+----------------
+Servidor levou 36 milisegundos para carregar(aprox: 0,036 segundos).
+----------------
+Servidor levou 73 milisegundos para carregar(aprox: 0,073 segundos).
+----------------
+Servidor levou 63 milisegundos para carregar(aprox: 0,063 segundos).
+----------------
+Servidor levou 64 milisegundos para carregar(aprox: 0,064 segundos).
+----------------
+Servidor levou 39 milisegundos para carregar(aprox: 0,039 segundos).
+----------------
+Servidor levou 64 milisegundos para carregar(aprox: 0,064 segundos).
+----------------
+Servidor levou 57 milisegundos para carregar(aprox: 0,057 segundos).
+----------------
+Servidor levou 80 milisegundos para carregar(aprox: 0,08 segundos).
+----------------
+Servidor levou 35 milisegundos para carregar(aprox: 0,035 segundos).
+----------------
+Servidor levou 34 milisegundos para carregar(aprox: 0,034 segundos).
+----------------
+Servidor levou 68 milisegundos para carregar(aprox: 0,068 segundos).
+----------------
+Servidor levou 34 milisegundos para carregar(aprox: 0,034 segundos).
+----------------
+ItemList carregado com sucesso!
+----------------
+HeightMap carregado com sucesso!
+----------------
+Teleportes carregados com sucesso!
+----------------
+SkillData carregado com sucesso!
+----------------
+1001 mobs foram instanciados!
+----------------
+Servidor levou 1032 milisegundos para carregar(aprox: 1,032 segundos).
+----------------
+ItemList carregado com sucesso!
+----------------
+HeightMap carregado com sucesso!
+----------------
+Teleportes carregados com sucesso!
+----------------
+SkillData carregado com sucesso!
+----------------
+1001 mobs foram instanciados!
+----------------
+Servidor levou 421 milisegundos para carregar(aprox: 0,421 segundos).
+----------------
+ItemList carregado com sucesso!
+----------------
+HeightMap carregado com sucesso!
+----------------
+Teleportes carregados com sucesso!
+----------------
+SkillData carregado com sucesso!
+----------------
+1001 mobs foram instanciados!
+----------------
+Servidor levou 440 milisegundos para carregar(aprox: 0,44 segundos).
+----------------
+ItemList carregado com sucesso!
+----------------
+HeightMap carregado com sucesso!
+----------------
+Teleportes carregados com sucesso!
+----------------
+SkillData carregado com sucesso!
+----------------
+1001 mobs foram instanciados!
+----------------
+Servidor levou 371 milisegundos para carregar(aprox: 0,371 segundos).
+----------------
+ItemList carregado com sucesso!
+----------------
+HeightMap carregado com sucesso!
+----------------
+Teleportes carregados com sucesso!
+----------------
+SkillData carregado com sucesso!
+----------------
+1001 mobs foram instanciados!
+----------------
+Servidor levou 374 milisegundos para carregar(aprox: 0,374 segundos).
+----------------
+ItemList carregado com sucesso!
+----------------
+HeightMap carregado com sucesso!
+----------------
+Teleportes carregados com sucesso!
+----------------
+SkillData carregado com sucesso!
+----------------
+1001 mobs foram instanciados!
+----------------
+Servidor levou 420 milisegundos para carregar(aprox: 0,42 segundos).
+----------------
+ItemList carregado com sucesso!
+----------------
+HeightMap carregado com sucesso!
+----------------
+Teleportes carregados com sucesso!
+----------------
+SkillData carregado com sucesso!
+----------------
+1001 mobs foram instanciados!
+----------------
+Servidor levou 935 milisegundos para carregar(aprox: 0,935 segundos).
+----------------
+ItemList carregado com sucesso!
+----------------
+HeightMap carregado com sucesso!
+----------------
+Teleportes carregados com sucesso!
+----------------
+SkillData carregado com sucesso!
+----------------
+1001 mobs foram instanciados!
+----------------
+Servidor levou 403 milisegundos para carregar(aprox: 0,403 segundos).
+----------------
+ItemList carregado com sucesso!
+----------------
+HeightMap carregado com sucesso!
+----------------
+Teleportes carregados com sucesso!
+----------------
+SkillData carregado com sucesso!
+----------------
+1001 mobs foram instanciados!
+----------------
+Servidor levou 1098 milisegundos para carregar(aprox: 1,098 segundos).
+----------------
+ItemList carregado com sucesso!
+----------------
+HeightMap carregado com sucesso!
+----------------
+Teleportes carregados com sucesso!
+----------------
+SkillData carregado com sucesso!
+----------------
+1001 mobs foram instanciados!
+----------------
+Servidor levou 1335 milisegundos para carregar(aprox: 1,335 segundos).
+----------------
+ItemList carregado com sucesso!
+----------------
+HeightMap carregado com sucesso!
+----------------
+Teleportes carregados com sucesso!
+----------------
+SkillData carregado com sucesso!
+----------------
+1001 mobs foram instanciados!
+----------------
+Servidor levou 1078 milisegundos para carregar(aprox: 1,078 segundos).
+----------------
+ItemList carregado com sucesso!
+----------------
+HeightMap carregado com sucesso!
+----------------
+Teleportes carregados com sucesso!
+----------------
+SkillData carregado com sucesso!
+----------------
+1001 mobs foram instanciados!
+----------------
+Servidor levou 1125 milisegundos para carregar(aprox: 1,125 segundos).
+----------------
+ItemList carregado com sucesso!
+----------------
+HeightMap carregado com sucesso!
+----------------
+Teleportes carregados com sucesso!
+----------------
+SkillData carregado com sucesso!
+----------------
+1001 mobs foram instanciados!
+----------------
+Servidor levou 907 milisegundos para carregar(aprox: 0,907 segundos).
+----------------
+ItemList carregado com sucesso!
+----------------
+HeightMap carregado com sucesso!
+----------------
+Teleportes carregados com sucesso!
+----------------
+SkillData carregado com sucesso!
+----------------
+1001 mobs foram instanciados!
+----------------
+Servidor levou 892 milisegundos para carregar(aprox: 0,892 segundos).
+----------------
+ItemList carregado com sucesso!
+----------------
+HeightMap carregado com sucesso!
+----------------
+Teleportes carregados com sucesso!
+----------------
+SkillData carregado com sucesso!
+----------------
+1001 mobs foram instanciados!
+----------------
+Servidor levou 1152 milisegundos para carregar(aprox: 1,152 segundos).
+----------------
+ItemList carregado com sucesso!
+----------------
+HeightMap carregado com sucesso!
+----------------
+Teleportes carregados com sucesso!
+----------------
+SkillData carregado com sucesso!
+----------------
+1001 mobs foram instanciados!
+----------------
+Servidor levou 986 milisegundos para carregar(aprox: 0,986 segundos).
+----------------
+ItemList carregado com sucesso!
+----------------
+HeightMap carregado com sucesso!
+----------------
+Teleportes carregados com sucesso!
+----------------
+SkillData carregado com sucesso!
+----------------
+1001 mobs foram instanciados!
+----------------
+Servidor levou 1158 milisegundos para carregar(aprox: 1,158 segundos).
+----------------
+ItemList carregado com sucesso!
+----------------
+HeightMap carregado com sucesso!
+----------------
+Teleportes carregados com sucesso!
+----------------
+SkillData carregado com sucesso!
+----------------
+1001 mobs foram instanciados!
+----------------
+Servidor levou 894 milisegundos para carregar(aprox: 0,894 segundos).
+----------------
+ItemList carregado com sucesso!
+----------------
+HeightMap carregado com sucesso!
+----------------
+Teleportes carregados com sucesso!
+----------------
+SkillData carregado com sucesso!
+----------------
+1001 mobs foram instanciados!
+----------------
+Servidor levou 1024 milisegundos para carregar(aprox: 1,024 segundos).
+----------------
+ItemList carregado com sucesso!
+----------------
+HeightMap carregado com sucesso!
+----------------
+Teleportes carregados com sucesso!
+----------------
+SkillData carregado com sucesso!
+----------------
+ItemList carregado com sucesso!
+----------------
+HeightMap carregado com sucesso!
+----------------
+Teleportes carregados com sucesso!
+----------------
+SkillData carregado com sucesso!
+----------------
+1001 mobs foram instanciados!
+----------------
+Servidor levou 839 milisegundos para carregar(aprox: 0,839 segundos).
+----------------
+ItemList carregado com sucesso!
+----------------
+HeightMap carregado com sucesso!
+----------------
+Teleportes carregados com sucesso!
+----------------
+SkillData carregado com sucesso!
+----------------
+1001 mobs foram instanciados!
+----------------
+Servidor levou 853 milisegundos para carregar(aprox: 0,853 segundos).
+----------------
+ItemList carregado com sucesso!
+----------------
+HeightMap carregado com sucesso!
+----------------
+Teleportes carregados com sucesso!
+----------------
+SkillData carregado com sucesso!
+----------------
+1001 mobs foram instanciados!
+----------------
+Servidor levou 1221 milisegundos para carregar(aprox: 1,221 segundos).
+----------------
+ItemList carregado com sucesso!
+----------------
+HeightMap carregado com sucesso!
+----------------
+Teleportes carregados com sucesso!
+----------------
+SkillData carregado com sucesso!
+----------------
+1001 mobs foram instanciados!
+----------------
+Servidor levou 983 milisegundos para carregar(aprox: 0,983 segundos).
+----------------
+ItemList carregado com sucesso!
+----------------
+HeightMap carregado com sucesso!
+----------------
+Teleportes carregados com sucesso!
+----------------
+SkillData carregado com sucesso!
+----------------
+1001 mobs foram instanciados!
+----------------
+Servidor levou 898 milisegundos para carregar(aprox: 0,898 segundos).
+----------------
+ItemList carregado com sucesso!
+----------------
+HeightMap carregado com sucesso!
+----------------
+Teleportes carregados com sucesso!
+----------------
+SkillData carregado com sucesso!
+----------------
+1001 mobs foram instanciados!
+----------------
+Servidor levou 1012 milisegundos para carregar(aprox: 1,012 segundos).
+----------------
+ItemList carregado com sucesso!
+----------------
+HeightMap carregado com sucesso!
+----------------
+Teleportes carregados com sucesso!
+----------------
+SkillData carregado com sucesso!
+----------------
+1001 mobs foram instanciados!
+----------------
+Servidor levou 501 milisegundos para carregar(aprox: 0,501 segundos).
+----------------
+ItemList carregado com sucesso!
+----------------
+HeightMap carregado com sucesso!
+----------------
+Teleportes carregados com sucesso!
+----------------
+SkillData carregado com sucesso!
+----------------
+1001 mobs foram instanciados!
+----------------
+Servidor levou 373 milisegundos para carregar(aprox: 0,373 segundos).
+----------------
+ItemList carregado com sucesso!
+----------------
+HeightMap carregado com sucesso!
+----------------
+Teleportes carregados com sucesso!
+----------------
+SkillData carregado com sucesso!
+----------------
+1001 mobs foram instanciados!
+----------------
+Servidor levou 871 milisegundos para carregar(aprox: 0,871 segundos).
+----------------
+ItemList carregado com sucesso!
+----------------
+HeightMap carregado com sucesso!
+----------------
+Teleportes carregados com sucesso!
+----------------
+SkillData carregado com sucesso!
+----------------
+1001 mobs foram instanciados!
+----------------
+Servidor levou 868 milisegundos para carregar(aprox: 0,868 segundos).
+----------------
+ItemList carregado com sucesso!
+----------------
+HeightMap carregado com sucesso!
+----------------
+Teleportes carregados com sucesso!
+----------------
+SkillData carregado com sucesso!
+----------------
+1001 mobs foram instanciados!
+----------------
+Servidor levou 867 milisegundos para carregar(aprox: 0,867 segundos).
+----------------
+ItemList carregado com sucesso!
+----------------
+HeightMap carregado com sucesso!
+----------------
+Teleportes carregados com sucesso!
+----------------
+SkillData carregado com sucesso!
+----------------
+1001 mobs foram instanciados!
+----------------
+Servidor levou 889 milisegundos para carregar(aprox: 0,889 segundos).
+----------------
+ItemList carregado com sucesso!
+----------------
+HeightMap carregado com sucesso!
+----------------
+Teleportes carregados com sucesso!
+----------------
+SkillData carregado com sucesso!
+----------------
+1001 mobs foram instanciados!
+----------------
+Servidor levou 870 milisegundos para carregar(aprox: 0,87 segundos).
+----------------
+Servidor levou 108 milisegundos para carregar(aprox: 0,108 segundos).
+----------------
+Servidor levou 68 milisegundos para carregar(aprox: 0,068 segundos).
+----------------
+Servidor levou 74 milisegundos para carregar(aprox: 0,074 segundos).
+----------------
+Servidor levou 67 milisegundos para carregar(aprox: 0,067 segundos).
+----------------
+Servidor levou 70 milisegundos para carregar(aprox: 0,07 segundos).
+----------------
+Servidor levou 67 milisegundos para carregar(aprox: 0,067 segundos).
+----------------
+Servidor levou 43 milisegundos para carregar(aprox: 0,043 segundos).
+----------------
+Servidor levou 67 milisegundos para carregar(aprox: 0,067 segundos).
+----------------
+Servidor levou 67 milisegundos para carregar(aprox: 0,067 segundos).
+----------------
+Servidor levou 94 milisegundos para carregar(aprox: 0,094 segundos).
+----------------
+Servidor levou 48 milisegundos para carregar(aprox: 0,048 segundos).
+----------------
+Servidor levou 39 milisegundos para carregar(aprox: 0,039 segundos).
+----------------
+Servidor levou 66 milisegundos para carregar(aprox: 0,066 segundos).
+----------------
+Servidor levou 31 milisegundos para carregar(aprox: 0,031 segundos).
+----------------
+Servidor levou 49 milisegundos para carregar(aprox: 0,049 segundos).
+----------------
+Servidor levou 60 milisegundos para carregar(aprox: 0,06 segundos).
+----------------
+Servidor levou 34 milisegundos para carregar(aprox: 0,034 segundos).
+----------------
+Servidor levou 42 milisegundos para carregar(aprox: 0,042 segundos).
+----------------
+Servidor levou 31 milisegundos para carregar(aprox: 0,031 segundos).
+----------------
+Servidor levou 75 milisegundos para carregar(aprox: 0,075 segundos).
+----------------
+Servidor levou 62 milisegundos para carregar(aprox: 0,062 segundos).
+----------------
+Servidor levou 64 milisegundos para carregar(aprox: 0,064 segundos).
+----------------
+Servidor levou 69 milisegundos para carregar(aprox: 0,069 segundos).
+----------------
+Servidor levou 62 milisegundos para carregar(aprox: 0,062 segundos).
+----------------
+Servidor levou 46 milisegundos para carregar(aprox: 0,046 segundos).
+----------------
+Servidor levou 36 milisegundos para carregar(aprox: 0,036 segundos).
+----------------
+Servidor levou 46 milisegundos para carregar(aprox: 0,046 segundos).
+----------------
+Servidor levou 60 milisegundos para carregar(aprox: 0,06 segundos).
+----------------
+Servidor levou 62 milisegundos para carregar(aprox: 0,062 segundos).
+----------------
+Servidor levou 66 milisegundos para carregar(aprox: 0,066 segundos).
+----------------
+Servidor levou 69 milisegundos para carregar(aprox: 0,069 segundos).
+----------------
+Servidor levou 72 milisegundos para carregar(aprox: 0,072 segundos).
+----------------
+Servidor levou 63 milisegundos para carregar(aprox: 0,063 segundos).
+----------------
+Servidor levou 62 milisegundos para carregar(aprox: 0,062 segundos).
+----------------
+Servidor levou 41 milisegundos para carregar(aprox: 0,041 segundos).
+----------------
+Servidor levou 64 milisegundos para carregar(aprox: 0,064 segundos).
+----------------
+Servidor levou 98 milisegundos para carregar(aprox: 0,098 segundos).
+----------------
+Servidor levou 67 milisegundos para carregar(aprox: 0,067 segundos).
+----------------
+Servidor levou 61 milisegundos para carregar(aprox: 0,061 segundos).
+----------------
+Servidor levou 62 milisegundos para carregar(aprox: 0,062 segundos).
+----------------
+Servidor levou 64 milisegundos para carregar(aprox: 0,064 segundos).
+----------------
+Servidor levou 63 milisegundos para carregar(aprox: 0,063 segundos).
+----------------
+Servidor levou 71 milisegundos para carregar(aprox: 0,071 segundos).
+----------------
+Servidor levou 69 milisegundos para carregar(aprox: 0,069 segundos).
+----------------
+Servidor levou 40 milisegundos para carregar(aprox: 0,04 segundos).
+----------------
+Servidor levou 61 milisegundos para carregar(aprox: 0,061 segundos).
+----------------
+Servidor levou 67 milisegundos para carregar(aprox: 0,067 segundos).
+----------------
+Servidor levou 67 milisegundos para carregar(aprox: 0,067 segundos).
+----------------
+Servidor levou 65 milisegundos para carregar(aprox: 0,065 segundos).
+----------------
+Servidor levou 64 milisegundos para carregar(aprox: 0,064 segundos).
+----------------
+Servidor levou 65 milisegundos para carregar(aprox: 0,065 segundos).
+----------------
+Servidor levou 71 milisegundos para carregar(aprox: 0,071 segundos).
+----------------
+Servidor levou 65 milisegundos para carregar(aprox: 0,065 segundos).
+----------------
+Servidor levou 48 milisegundos para carregar(aprox: 0,048 segundos).
+----------------
+ItemList carregado com sucesso!
+----------------
+HeightMap carregado com sucesso!
+----------------
+Teleportes carregados com sucesso!
+----------------
+SkillData carregado com sucesso!
+----------------
+1001 mobs foram instanciados!
+----------------
+Servidor levou 839 milisegundos para carregar(aprox: 0,839 segundos).
+----------------
+ItemList carregado com sucesso!
+----------------
+HeightMap carregado com sucesso!
+----------------
+Teleportes carregados com sucesso!
+----------------
+SkillData carregado com sucesso!
+----------------
+1001 mobs foram instanciados!
+----------------
+Servidor levou 435 milisegundos para carregar(aprox: 0,435 segundos).
+----------------
+Servidor levou 60 milisegundos para carregar(aprox: 0,06 segundos).
+----------------
+Servidor levou 69 milisegundos para carregar(aprox: 0,069 segundos).
+----------------
+Servidor levou 64 milisegundos para carregar(aprox: 0,064 segundos).
+----------------
+Servidor levou 70 milisegundos para carregar(aprox: 0,07 segundos).
+----------------
+Servidor levou 73 milisegundos para carregar(aprox: 0,073 segundos).
+----------------
+Servidor levou 66 milisegundos para carregar(aprox: 0,066 segundos).
+----------------
+Servidor levou 60 milisegundos para carregar(aprox: 0,06 segundos).
+----------------
+Servidor levou 65 milisegundos para carregar(aprox: 0,065 segundos).
+----------------
+Servidor levou 65 milisegundos para carregar(aprox: 0,065 segundos).
+----------------
+Servidor levou 29 milisegundos para carregar(aprox: 0,029 segundos).
+----------------
+Servidor levou 35 milisegundos para carregar(aprox: 0,035 segundos).
+----------------
+Servidor levou 36 milisegundos para carregar(aprox: 0,036 segundos).
+----------------
+Servidor levou 35 milisegundos para carregar(aprox: 0,035 segundos).
+----------------

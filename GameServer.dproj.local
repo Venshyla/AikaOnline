@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2015/09/06 22:22:25.000.223,=C:\GMS\MyApp Delphi\Server AIKA\Unit1.pas</Transaction>
+    <Transaction>2015/09/06 22:22:38.000.204,C:\GMS\MyApp Delphi\Server AIKA\Structs.pas=C:\GMS\MyApp Delphi\Server AIKA\Unit1.pas</Transaction>
+    <Transaction>2015/09/07 22:41:09.000.481,C:\GMS\MyApp Delphi\Server AIKA\PacketHandlers\Combat\Skills\BeastMaster\BMBuffs.pas=</Transaction>
+    <Transaction>2015/09/07 22:41:15.000.448,C:\GMS\MyApp Delphi\Server AIKA\PacketHandlers\Combat\Skills\Foema\FMBuffs.pas=</Transaction>
+    <Transaction>2015/09/07 22:41:22.000.478,C:\GMS\MyApp Delphi\Server AIKA\PacketHandlers\Combat\Skills\Huntress\HTBuffs.pas=</Transaction>
+    <Transaction>2015/09/07 22:41:26.000.395,C:\GMS\MyApp Delphi\Server AIKA\PacketHandlers\Combat\Skills\TransKnight\TKBuffs.pas=</Transaction>
+    <Transaction>2015/09/07 22:41:43.000.351,C:\GMS\MyApp Delphi\Server AIKA\PacketHandlers\Combat\CombatHandlers.pas=</Transaction>
+    <Transaction>2015/09/07 22:43:43.000.332,C:\GMS\MyApp Delphi\Server AIKA\Functions\Funcoes.pas=</Transaction>
+    <Transaction>2015/09/11 21:28:38.000.328,=C:\GMS\MyApp Delphi\Server AIKA\Unit1.pas</Transaction>
+    <Transaction>2015/09/11 21:28:52.000.730,C:\GMS\MyApp Delphi\Server AIKA\Unit1.pas=C:\GMS\MyApp Delphi\Server AIKA\PlayerFunc.pas</Transaction>
+    <Transaction>2015/09/19 22:48:16.000.031,C:\GMS\MyApp Delphi\Server AIKA\PlayerFunc.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
